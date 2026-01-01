@@ -21,8 +21,8 @@ theme = 'PaperMod'
 
   [[menu.main]]
     identifier = "categories"
-    name = "Rust笔记"  # 改个名
-    url = "/categories/rust/" # 直接指向 Rust 分类详情页，跳过那个只有方块的页面
+    name = "Rust"
+    url = "/categories/rust/"
     weight = 30
 
   [[menu.main]]
