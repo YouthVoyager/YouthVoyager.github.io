@@ -1,0 +1,4 @@
+baseURL = 'https://YouthVoyager.github.io/'
+languageCode = 'zh-cn'
+title = '少年游的技术博客'
+theme = 'PaperMod'
