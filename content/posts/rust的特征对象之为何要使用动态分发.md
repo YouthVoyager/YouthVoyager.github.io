@@ -17,7 +17,7 @@ weight: 0 # 默认不置顶（1是置顶）
 
 
 comments: true
-showToc: true
+ShowToc: true
 ---
 # Rust的特征对象之为何要使用动态分发
 
