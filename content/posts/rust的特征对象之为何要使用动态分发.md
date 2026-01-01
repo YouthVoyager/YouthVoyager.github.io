@@ -3,7 +3,7 @@ title: "Rust的特征对象之为何要使用动态分发"
 date: 2026-01-01T18:10:55+08:00
 lastmod: 2026-01-01T18:10:55+08:00
 author: ["YouthVoyager"]
-draft: true
+draft: false
 
 # 核心分类配置
 categories: 
